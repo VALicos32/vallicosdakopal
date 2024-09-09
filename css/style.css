@@ -1,0 +1,75 @@
+.body{
+    margin:0;
+}
+.div1{
+    background-color:rgb(46, 46, 61);
+    width: auto;
+    height: 1200px;
+}
+
+.jotaro{
+    position: absolute;
+    width: 430px;
+}
+
+.text{
+    letter-spacing: 2px;
+    margin-top:450px;
+    margin-left: 40px;
+    position: absolute;
+}
+
+.bio{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 500px;
+    width: 500px;
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0.09);
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top:40px;
+}
+.text-inbox{
+    letter-spacing: 2px;
+    color:white;
+}
+
+.diobrando{
+    margin-left:1000px;
+    margin-top: 450px;
+    position: absolute;
+    width: 300px;
+}
+.textdio{
+    letter-spacing: 2px;
+    margin-top:600px;
+    margin-left: 1300px;
+    position: absolute;
+}
+
+.bio2{
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 100px;
+    width: 500px;
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0.09);
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top:40px;
+}
+.text-inboxdio{
+    letter-spacing: 2px;
+    color:white;
+}
+.footer{
+    text-align: center;
+    width: auto;
+    height: 30px;
+    background-color: red;
+
+}
+.link{
+    text-align: center;
+}
